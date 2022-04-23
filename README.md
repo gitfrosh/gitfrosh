@@ -4,7 +4,7 @@
 
 # Hi there, I'm Rike
  
--  **Working:** as a Full-Stack Developer at IAV in Berlin, Germany
+-  **Working:** as a Frontend Developer at IAV in Berlin, Germany
 -  **Languages :** Javascript, Python 💻
 -  **Teaching:** mostly beginners in web development topics, see [rike.dev](https://rike.dev)
 -  **Diving into :** all things Ethereum, Web3 & dApps
