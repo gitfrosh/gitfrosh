@@ -4,7 +4,7 @@
 
 # Hi there, I'm Rike
  
--  **Working:** as a Software Developer with focus on frontend technologies at IAV in Berlin, Germany
+-  **Working:** as a Software Developer at IAV in Berlin, Germany
 -  **Languages :** Javascript, Typescript, CSS, Python 💻
 -  **Teaching:** web development, React, Web3/Blockchain, see [rike.dev](https://rike.dev/courses)
 
